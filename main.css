@@ -7,8 +7,8 @@
 	background: #000;
 	width: 400px;
 	transition: opacity 1s;
-    padding: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    	padding: 10px;
+    	font-family: Arial, Helvetica, sans-serif;
 	opacity: 0;
 }
 
@@ -66,7 +66,7 @@
 	position: relative;
 	border: 1px;
 	padding: 10px;
-	color: #fff;
+	color: #000;
 	text-overflow: ellipsis;
 	background: #888;
 	padding-right: 55px;
